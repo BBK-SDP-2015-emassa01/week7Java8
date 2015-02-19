@@ -1,4 +1,5 @@
-package example01;
+package example02;
+
 
 //public class D extends B, C { //no MI in Java! So we create interfaces...
 public class D implements B, C {
